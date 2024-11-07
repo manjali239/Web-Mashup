@@ -5,7 +5,7 @@ The Weather & News Web Application is a single-page web app that allows users to
 Fetch and display current weather information for any specified city.
 Retrieve and view the latest news articles when "news" is entered in the search bar.
 The app is designed with a clean, responsive UI for ease of use across devices, including desktops, tablets, and mobile phones. By leveraging the OpenWeather and NewsData.io APIs, the app delivers accurate, real-time data to users in a simple, intuitive interface.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Table of Contents
 Features
