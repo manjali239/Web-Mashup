@@ -44,7 +44,7 @@ Getting Started
 To run this project locally:
 
 Clone the repository:
-git clone https://github.com/yourusername/weather-news-app.git
+git clone https://github.com/manjali239/Web-Mashup.git
 -----------------------------------------------------------------
 cd weather-news-app
 
@@ -85,13 +85,6 @@ https://newsdata.io/api/1/news?apikey=YOUR_API_KEY&country=us
 
 Project Structure
 The app structure includes three main files:
-
-plaintext
-Copy code
-├── index.html    // Contains the structure of the app's UI
-├── styles.css    // Styles for the app, including responsiveness and layout
-└── script.js     // JavaScript logic for fetching and displaying data
-
 
 HTML (index.html)
 Contains the layout with a search input, button, and a container for displaying results.
